@@ -80,8 +80,8 @@ Make sure your project is organized as follows for the imports to work correctly
 ### Execution
 Clone the Repository:
 ```
-git clone https://github.com/your-username/your-repository-name.git
-cd your-repository-name
+git clone https://github.com/foo290/minisearch.git
+cd minisearch
 ```
 
 Add Data: Place your .txt document files inside the data/ directory.
